@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: auth-service
+  flyway:
+    baseline-on-migrate: true
+
